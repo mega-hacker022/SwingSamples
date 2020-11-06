@@ -1,6 +1,8 @@
-5
+7
+1000000	Meghan
 125000	Joe
 32000	Jane
 32000	Jaxson
 8000	Joseph
 1000	Julia
+1000	meghan
